@@ -1,2 +1,2 @@
 # FederatedNS3
-Federated AI for NS3 in VaNet
+Federated AI VaNet in NS3
